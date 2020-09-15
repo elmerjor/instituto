@@ -1,0 +1,16 @@
+.slider {
+  border: none;
+    margin-top: 100px;
+    position: relative;
+    background: #0000cd;
+}
+.slider img {
+  border: none;
+    display: block;
+  margin: 0;
+  max-width: 0; 		
+  height: 300px;
+  width: 95%;
+  margin-bottom: -4px;
+  
+}

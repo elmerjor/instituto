@@ -1,0 +1,12 @@
+#banner{
+    border: none;
+    margin-top: 100px;
+    position: relative;
+    background: #0000cd;
+}
+
+#banner h2{
+    float: center;
+    font-size: 35px;
+    color: #00ffff;
+}
